@@ -1,0 +1,19 @@
+{
+  "name": "service_worker",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgvr81/service_worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgvr81/service_worker/issues"
+  },
+  "homepage": "https://github.com/zgvr81/service_worker#readme"
+}
